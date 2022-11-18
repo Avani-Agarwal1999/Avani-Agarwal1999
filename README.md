@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Avani-Agarwal1999
-- 👀 I’m interested in machine learnin.
+- 👀 I’m interested in machine learning.
 - 🌱 I’m currently a Masters in Computer Science Student at University of Texas at Austin
 - 💞️ I’m looking to collaborate on ...
 
